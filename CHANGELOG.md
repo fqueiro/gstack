@@ -1,5 +1,13 @@
 # Changelog
 
+## [0.7.0.1] - 2026-03-18
+
+### Changed
+
+- **README rewritten around the sprint workflow.** Skills are now presented as a process — Think → Plan → Build → Review → Test → Ship → Reflect — not a tool collection. One sprint, one person, one feature, about 30 minutes. But you can run 10-15 in parallel.
+- **`/office-hours` examples replaced with a real session.** The generic photo upload example is gone. In its place: a real founder session where the premise gets challenged and reframed — daily briefing app → chief of staff AI. Shows what the skill actually does.
+- **Skills table reordered to match the sprint.** `docs/skills.md` now follows the workflow order instead of arbitrary alphabetical grouping.
+
 ## [0.7.0] - 2026-03-18 — YC Office Hours
 
 **`/office-hours` — sit down with a YC partner before you write a line of code.**
